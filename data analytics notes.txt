@@ -1,0 +1,4 @@
+Name	State	Start Mode	Log On As	Process ID	Service Type
+SQL Server Browser	Stopped	Other (Boot, System, Disabled or Unknown)	NT AUTHORITY\LOCALSERVICE	0	
+SQL Server (SQLEXPRESS)	Running	Automatic	NT Service\MSSQL$SQLEXPRESS	13648	SQL Server
+SQL Server Agent (SQLEXPRESS)	Stopped	Other (Boot, System, Disabled or Unknown)	NT AUTHORITY\NETWORKSERVICE	0	SQL Agent
